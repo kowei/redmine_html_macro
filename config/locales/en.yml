@@ -1,0 +1,8 @@
+# Simplified Chinese strings go here for Rails i18n
+zh:
+  markdown_it_url: "Markdown-it JS URL"
+  htmlmacro_url: "plugin default CSS URL"
+  css_url: "external CSS URL"
+  js_url: "external JS URL"
+  collapsible_keyword: "collapsible css class name"
+  markdown_keyword: "markdown css class name"

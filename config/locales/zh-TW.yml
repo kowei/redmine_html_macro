@@ -1,0 +1,9 @@
+# Simplified Chinese strings go here for Rails i18n
+zh:
+  markdown_it_url: "Markdown-it JS 位置"
+  htmlmacro_url: "插件內引用的 CSS 預設位置"
+  css_url: "引用 CSS 位置"
+  js_url: "引用 JS 位置"
+  collapsible_keyword: "縮排使用的 css class 名稱"
+  markdown_keyword: "markdown 段落使用的 css class 名稱"
+  
