@@ -200,7 +200,7 @@
     background-color: #555;
 }
 
-.mygo_collapsible {
+.html_collapsible {
     background-color: rgb(250, 221, 208);
     color: white;
     cursor: pointer;
@@ -213,8 +213,8 @@
     font-size: 15px;
 }
 
-.mygo_active,
-.mygo_collapsible:hover {
+.html_active,
+.html_collapsible:hover {
     background-color: #d87373;
 }
 
@@ -231,7 +231,7 @@
     font-size: 15px;
 }
 
-.mygo_active,
+.html_active,
 .endpoint_collapsible:hover {
     background-color: hsl(0, 100%, 50%);
 }

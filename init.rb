@@ -7,8 +7,8 @@ Redmine::Plugin.register :redmine_html_macro do
     author 'KC Chen'
     author_url 'https://github.com/kowei'
     description 'Embed markdown text in wiki pages using the markdown-it to convert HTML content<br>Collapsible tag for collaps content'
-    url 'git@shark.mygo.com:Redmine/redmine_markdown_macro.git'
-    version '0.0.3'
+    url 'git@github.com:kowei/redmine_html_macro.git'
+    version '0.0.4'
 
     settings :default => { 
                             'js_url' => '' ,
@@ -74,7 +74,7 @@ $(document).ready(function () {
                 // content.style.display = 'none';
                 coll[i].addEventListener('click', function () {
                     var content = this.nextElementSibling;
-                    this.classList.toggle('mygo_active');
+                    this.classList.toggle('html_active');
                     // console.log(content);
                     if (content.style.display === 'block') {
                         content.style.display = 'none';
