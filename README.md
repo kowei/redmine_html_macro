@@ -23,7 +23,7 @@ The plugin can be configured by the *Redmine* administrator via the Redmine inte
 
 In the configuration form you can set 
 
-  * Markdown-it JS location: the plugin come with default lib. If you wish to use external CSDN, you can set it.
+  * Markdown-it JS location: the plugin come with default lib. If you wish to use external CDN, you can set it.
   * internal CSS location: 
   * extra JS location
   * extra CSS location
